@@ -6,6 +6,9 @@ I'm currently focusing on my passion projects and am always open to collaboratin
 
 Reach out to me here on through my email or LinkedIn. 
 
+------------ 
+
+ * 🌍  I'm based in Berlin * ✉️  You can contact me at [noor.alhabbal@gmail.com](mailto:noor.alhabbal@gmail.com) * 🤝  I'm open to collaborating on interesting projects
 
 ------------ 
 
@@ -35,9 +38,6 @@ Reach out to me here on through my email or LinkedIn.
 - **Frameworks & Libraries**: Dash, Fast.ai, SciPy, Scikit-learn, NLTK, NumPy, Pandas
 - **Software & Tools**: GIT Version Control, Plotly, Seaborn, Tableau, Google Analytics, Suite (Gsheets, GDoc, Gslides)
 
-
-
- * 🌍  I'm based in Berlin * ✉️  You can contact me at [noor.alhabbal@gmail.com](mailto:noor.alhabbal@gmail.com) * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills  
 
