@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm currently focusing on my passion projects and am always open to collaborating on interesting initiatives. If you're seeking a dedicated data analyst to contribute to your project, or if you've got a concept that might benefit from my skills and expertise, don't hesitate to get in touch. Let's turn data into insights together!
 
-Reach out to me here on GitHub or LinkedIn. 
+Reach out to me here on through my email or LinkedIn. 
 
 
 ------------ 
