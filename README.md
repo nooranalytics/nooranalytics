@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Analayst
 ------------ 
-##### Let's Collaborate!
+#### Let's Collaborate!
 
 I'm currently focusing on my passion projects and am always open to collaborating on interesting initiatives. If you're seeking a dedicated data analyst to contribute to your project, or if you've got a concept that might benefit from my skills and expertise, don't hesitate to get in touch. Let's turn data into insights together!
 
