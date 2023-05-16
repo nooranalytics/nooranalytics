@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nour ============================================================================================================================  Data Analyst ------------ **Dynamic Data Analyst** with 4+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Analayst
+------------ 
+**Dynamic Data Analyst** with 4+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
 
 ### Experience
 
