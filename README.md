@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------ 
 #### Let's Collaborate!
 
-I'm currently focusing on my passion projects and am always open to collaborating on interesting initiatives. If you're seeking a dedicated data analyst to contribute to your project, or if you've got a concept that might benefit from my skills and expertise, don't hesitate to get in touch. Let's turn data into insights together!
+While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain
 
 Reach out to me here on through my email or LinkedIn. 
 
