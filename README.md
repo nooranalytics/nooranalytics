@@ -56,5 +56,5 @@ Reach out to me here on through my email or LinkedIn.
 --
 [![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooranalytics)](https://github.com/nooranalytics/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooranalytics)](https://github.com/nooranalytics/github-readme-stats)
+![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooranalytics&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooranalytics&repo=github-readme-stats)](https://github.com/nooranalytics/github-readme-stats)
