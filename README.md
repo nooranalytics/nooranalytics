@@ -54,5 +54,7 @@ Reach out to me here on through my email or LinkedIn.
 <a href="https://github.com/nooranalytics" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooranalytics&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 --
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooranalytics)](https://github.com/nooranalytics/github-readme-stats)
 [![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=nooranalytics)](https://github.com/nooranalytics/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nooranalytics)](https://github.com/nooranalytics/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nooranalytics&repo=github-readme-stats)](https://github.com/nooranalytics/github-readme-stats)
