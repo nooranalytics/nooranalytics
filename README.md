@@ -1,4 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a data analyst!
+
+<a href="https://app.daily.dev/nooreo"><img src="https://api.daily.dev/devcards/2572a8660fe2472396d0dc2b28c477b2.png?r=n9q" width="400" alt="Noor's Dev Card"/></a>
+
 ------------ 
 #### Let's Collaborate!
 
