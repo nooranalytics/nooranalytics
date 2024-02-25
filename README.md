@@ -49,6 +49,6 @@ Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/
  
  ### Tableau Dasboards
  https://public.tableau.com/app/profile/nour5844
-
+<!--- 
  ### Daily Dev
-<a href="https://app.daily.dev/noorh"><img src="https://api.daily.dev/devcards/2572a8660fe2472396d0dc2b28c477b2.png?r=jls" width="400" alt="Noor's Dev Card"/></a>
+<a href="https://app.daily.dev/noorh"><img src="https://api.daily.dev/devcards/2572a8660fe2472396d0dc2b28c477b2.png?r=jls" width="400" alt="Noor's Dev Card"/></a>  --->
