@@ -13,7 +13,7 @@ Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/
 
 ------------ 
 
-**Dynamic Data Analyst** with 4+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
+**Dynamic Data Analyst** with 5+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
 
 ### Experience
 
