@@ -17,7 +17,7 @@ Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/
 
 ### Experience
 
-- 4+ years of experience in Data Analysis encompassing Data Wrangling, Data Exploration, and Data Visualization.
+- 5+ years of experience in Data Analysis encompassing Data Wrangling, Data Exploration, and Data Visualization.
 - Proficiency in Full Data Stack libraries including Dash, Fast.ai, SciPy, Scikit-learn, NLTK, NumPy, and Pandas.
 - Worked for a variety of industry clients and have experience in sectors such as media and recruitment.
 
