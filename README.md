@@ -9,7 +9,7 @@ Reach out to me here on through my email or [LinkedIn](https://www.linkedin.com/
 
 ------------ 
 
- * 🌍  I'm based in Berlin * ✉️  You can contact me at [noor.alhabbal@gmail.com](mailto:noor.alhabbal@gmail.com) * 🤝  I'm open to collaborating on interesting projects* 
+ * 🌍  I'm based in Berlin * ✉️  You can contact me via LinkedIn * 🤝  I'm open to collaborating on interesting projects* 
 
 ------------ 
 
