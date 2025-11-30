@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 While primarily dedicated to my passion projects at present, I remain receptive to engaging in new roles that align with my skills and interests. I am always enthusiastic about exploring unique initiatives and collaborations in the data analysis domain.
 
-Reach out to me here on through [LinkedIn](https://www.linkedin.com/in/nour-alhabbal/). 
+Reach out on [LinkedIn](https://www.linkedin.com/in/nour-alhabbal/). 
 
 ------------ 
 
