@@ -13,11 +13,11 @@ Reach out on [LinkedIn](https://www.linkedin.com/in/nour-alhabbal/).
 
 ------------ 
 
-**Dynamic Data Analyst** with 5+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
+**Dynamic Data Analyst** with 6+ years of experience in data management and business intelligence, specializing in driving data-powered decision-making to boost business development. Passionate about integrating analytical methodologies, statistical analysis, and data management practices to present actionable insights for critical business tasks.
 
 ### Experience
 
-- 5+ years of experience in Data Analysis encompassing Data Wrangling, Data Exploration, and Data Visualization.
+- 6+ years of experience in Data Analysis encompassing Data Wrangling, Data Exploration, and Data Visualization.
 - Proficiency in Full Data Stack libraries including Dash, Fast.ai, SciPy, Scikit-learn, NLTK, NumPy, and Pandas.
 - Worked for a variety of industry clients and have experience in sectors such as media and recruitment.
 
