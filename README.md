@@ -9,7 +9,7 @@ Reach out on [LinkedIn](https://www.linkedin.com/in/nour-alhabbal/).
 
 ------------ 
 
- * 🌍  I'm based in Berlin * ✉️  You can contact me via LinkedIn * 🤝  I'm open to collaborating on interesting projects* 
+ * 🌍  I'm based in Berlin  -  ✉️  You can contact me via LinkedIn  -  🤝  I'm open to collaborating on interesting projects
 
 ------------ 
 
